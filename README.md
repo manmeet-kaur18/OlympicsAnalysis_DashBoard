@@ -63,6 +63,9 @@ This section focuses on comparing physiques and age of different atheletes from 
 - Through this platform we can easily compare the medalists from various countaries and find out the optimal height, weight and age of the atheletes who are winning the medals during olympics.
 - A quick insight into the gender ratio in Olympics on overall basis as well as countary wise with further details by year wise.
 
+# Flowchart of Methodology
+![Methodology](https://user-images.githubusercontent.com/43933680/137181353-364ae547-0bca-45a4-88f0-fcc833f645f3.jpg)
+
 # Observations
 
 What was observed in the visualizations is that there appeared to be a correlation between medal counts and GDP. Which would suggest that further analysis could be done on the statistical significance of this visible correlation.
