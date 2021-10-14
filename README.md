@@ -59,9 +59,9 @@ This section focuses on comparing physiques and age of different atheletes from 
 # Novelty
 
 - A simple and efficient UI/UX used in the web portal which makes understanding of the analytics easier.
-- A platform where we can easily compare and analyze the GDP, Population and the medal counts of various countaries with each other and also view there participation trend by a single click.
-- Through this platform we can easily compare the medalists from various countaries and find out the optimal height, weight and age of the atheletes who are winning the medals during olympics.
-- A quick insight into the gender ratio in Olympics on overall basis as well as countary wise with further details by year wise.
+- A platform where we can easily compare and analyze the GDP, Population and the medal counts of various countries with each other and also view there participation trend by a single click.
+- Through this platform we can easily compare the medalists from various countries and find out the optimal height, weight and age of the athletes who are winning the medals during olympics.
+- A quick insight into the gender ratio in Olympics on overall basis as well as country wise with further details by year wise.
 
 # Flowchart of Methodology
 ![Methodology](https://user-images.githubusercontent.com/43933680/137181353-364ae547-0bca-45a4-88f0-fcc833f645f3.jpg)
