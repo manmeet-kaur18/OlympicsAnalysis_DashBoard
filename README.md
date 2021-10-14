@@ -27,13 +27,13 @@ The user can easily access the web application dashboard by clicking on the belo
 # Features of Web Portal
 ## Medal Tally Page
 
-In the overall analysis, the user can easily compare the medals won by different countaries and see the country with the highest medals count till 2016. Also, in this page the user can easily see the medals received by a particular countary in a particular year by easily selecting the required year or the country through the dropdown in the bottom left of the UI.
+In the overall analysis, the user can easily compare the medals won by different countries and see the country with the highest medals count till 2016. Also, in this page the user can easily see the medals received by a particular country in a particular year by easily selecting the required year or the country through the dropdown in the bottom left of the UI.
 
 ![medaltally](https://user-images.githubusercontent.com/43933680/137168390-87590809-8a56-4241-bff3-77d997a7f126.png)
 
 ## Overall Analysis
 
-This section of the Web application focuses on giving a detailed overall statistics related to the no of events taken place till date, no of atheltes who have participated in the olympics from various countaries in past 120 years from 2016. It provides a medium through which user could easily visualize number of events that have taken place per sport in a particular year using a heatmap. It also gives an insight into top players which comes with an option to filter the view according to the preference of sport or see an overall comparison.
+This section of the Web application focuses on giving a detailed overall statistics related to the no of events taken place till date, no of atheltes who have participated in the olympics from various countries in past 120 years from 2016. It provides a medium through which user could easily visualize number of events that have taken place per sport in a particular year using a heatmap. It also gives an insight into top players which comes with an option to filter the view according to the preference of sport or see an overall comparison.
 
 ![overall1](https://user-images.githubusercontent.com/43933680/137169646-20531895-c24a-4ae3-8c95-22361e65625f.PNG)
 ![overall2](https://user-images.githubusercontent.com/43933680/137169685-26bc9e42-315f-4574-90f4-dfc831e7c68d.PNG)
